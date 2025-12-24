@@ -1,0 +1,1 @@
+This repository contains a Gymnasium environment implemented as a Jupyter notebook for a two-CSTR-in-series system for two cases, with and without delay. In the no-delay case, the effluent of Reactor-1 instantaneously becomes the influent of Reactor-2. In the delay case, the effluent of Reactor-1 travels through a pipe and reaches Reactor-2's influent after a delay.
